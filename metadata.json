@@ -1,0 +1,7 @@
+{
+  "name": "GestCom Pro - Gestion Commerciale & Facturation",
+  "description": "Logiciel professionnel complet de gestion commerciale : Entreprise, Clients, Fournisseurs, Produits, Devis, Bons de Livraison, Factures, Paiements, Dépenses, Audit et Rapports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
